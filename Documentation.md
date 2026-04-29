@@ -41,8 +41,8 @@ python main.py
 ```
 
 ## Requirements
-
-* Python 3.x
+* Python 3.01
+* os
 
 ## Notes
 
