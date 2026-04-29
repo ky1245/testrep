@@ -20,28 +20,8 @@ This project is a personal project developed to practice and demonstrate program
  └── README.md
 ```
 
-## How to Run
-
-1. Clone the repository
-
-```
-git clone <your-repo-url>
-```
-
-2. Move to the project directory
-
-```
-cd project-name
-```
-
-3. Run the program
-
-```
-python main.py
-```
-
 ## Requirements
-* Python 3.01
+* Python
 * os
 
 ## Notes
