@@ -51,6 +51,9 @@ cd project
 python main.py
 ```
 
+## Requirements
+* Python
+* os
 
 ##Notes
 
